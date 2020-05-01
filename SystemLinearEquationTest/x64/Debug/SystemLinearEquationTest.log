@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  SystemLinearEquationTest.cpp
+C:\Users\aubva\Desktop\TddExample-master\Task2\LinearEquation.h(19,13): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aubva\Desktop\TddExample-master\Task2\SystemLinearEquation.cpp(12,22): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+     Создается библиотека C:\Users\aubva\Desktop\TddExample-master\x64\Debug\SystemOfLinearEquationTest.lib и объект C:\Users\aubva\Desktop\TddExample-master\x64\Debug\SystemOfLinearEquationTest.exp
+  SystemLinearEquationTest.vcxproj -> C:\Users\aubva\Desktop\TddExample-master\x64\Debug\SystemOfLinearEquationTest.dll

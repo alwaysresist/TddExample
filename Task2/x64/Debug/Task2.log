@@ -1,0 +1,10 @@
+﻿  LinearEquation.cpp
+C:\Users\aubva\Desktop\TddExample-master\Task2\LinearEquation.h(19,13): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  SystemLinearEquation.cpp
+C:\Users\aubva\Desktop\TddExample-master\Task2\LinearEquation.h(19,13): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aubva\Desktop\TddExample-master\Task2\SystemLinearEquation.cpp(12,22): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Task2.cpp
+C:\Users\aubva\Desktop\TddExample-master\Task2\LinearEquation.h(19,13): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aubva\Desktop\TddExample-master\Task2\Task2.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Task2.vcxproj -> C:\Users\aubva\Desktop\TddExample-master\x64\Debug\Task2.exe

@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  LinearEquationTest.cpp
+C:\Users\aubva\Desktop\TddExample-master\LinearEquationTest\LinearEquationTest.cpp(3,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\aubva\Desktop\TddExample-master\Task2\LinearEquation.h(19,13): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aubva\Desktop\TddExample-master\LinearEquationTest\LinearEquationTest.cpp(4,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+     Создается библиотека C:\Users\aubva\Desktop\TddExample-master\x64\Debug\LinearEquationTest.lib и объект C:\Users\aubva\Desktop\TddExample-master\x64\Debug\LinearEquationTest.exp
+  LinearEquationTest.vcxproj -> C:\Users\aubva\Desktop\TddExample-master\x64\Debug\LinearEquationTest.dll
